@@ -1,15 +1,9 @@
 ---
-title: ' Pavlovian Society Featured Faculty'
+title: ''
 output:
-  pdf_document:
-    toc: yes
-    toc_depth: '1'
-  html_document:
-    toc: yes
-    toc_depth: 1
-    toc_float: yes
+  pdf_document: default
+  html_document: default
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -32,7 +26,7 @@ Right now, we have some exciting neural data from the PFC collected in freely be
 
 ###__What challenges, if any, have you experienced as a woman in learning?__
 
-I feel like I have been overall quite lucky to have had really supportive mentors, both male and female, throughout my career. However, when I got my faculty position and was the ‘boss’ of the lab and classroom, it appeared to me I was not getting the same level of respect from students, in the classroom and in the lab, as a new male PI would. 
+I feel like I have been overall quite lucky to have had really supportive mentors, both male and female, throughout my career. However, when I got my faculty position and was the 'boss' of the lab and classroom, it appeared to me I was not getting the same level of respect from students, in the classroom and in the lab, as a new male PI would. 
 
 ###__What advice would you give yourself 10 years ago?__
 
@@ -59,6 +53,9 @@ Over the years, it has become to me an interactive and supportive community fill
 
 ----
 
-This page was developed by Peter Euclide (peter.euclide@uwsp.edu). 
+Page developed by Peter Euclide (peter.euclide@.uwsp.edu) and maintained by Sydney Trask (trask@uwm.edu).
+
+
+
 
 
