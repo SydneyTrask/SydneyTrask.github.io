@@ -6,11 +6,11 @@ title: __Sydney Trask, PhD.__
 
 <img src="./photos/trask_profile.jpg" style="float:left" height="200px" width="150px" />
 
-##Postdoctoral Fellow
-###University of Wisconsin - Milwaukee  
-###The Department of Psychology
-###Milwaukee, Wisconsin  
-###trask@uwm.edu
+###Postdoctoral Fellow
+####University of Wisconsin - Milwaukee  
+####The Department of Psychology
+####Milwaukee, Wisconsin  
+####trask@uwm.edu
 
 I am interested in the ways the brain changes in response to learning and how we can access and manipulate these memories in order to reduce maladaptive behavior and encourage contextually appropriate responding. 
 
