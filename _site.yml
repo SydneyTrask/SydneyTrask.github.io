@@ -1,0 +1,15 @@
+name: "sydney-website"
+output_dir: "."
+navbar:
+  title: "Sydney Trask"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Pavlovian Society Featured Faculty"
+      href: Featured_Faculty.html
+output:
+  html_document:
+    theme: yeti
+    css: style.css
