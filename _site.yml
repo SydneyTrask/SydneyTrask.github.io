@@ -7,8 +7,6 @@ navbar:
       href: index.html
     - text: "Publications"
       href: Publications.html
-    - text: "Pavlovian Society Featured Faculty"
-      href: Featured_Faculty.html
 output:
   html_document:
     theme: yeti

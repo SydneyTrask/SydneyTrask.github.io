@@ -5,3 +5,4 @@
 setwd("~/Documents/GitHub/SydneyTrask.github.io")
 #render your sweet site. 
 rmarkdown::render_site()
+
