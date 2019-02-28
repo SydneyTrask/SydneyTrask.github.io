@@ -1,7 +1,7 @@
 ---
 title: __Sydney Trask, PhD.__
 ---
-<a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/Sydney_Trask">Tweets by Sydney_Trask</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="450" data-height="1000" href="https://twitter.com/Sydney_Trask">Tweets by Sydney_Trask</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
