@@ -10,9 +10,9 @@ ___
 
 For PDF copies, please email trask@uwm.edu
 
-Ferrara, N.C., Jarome, T.J., Cullen, P.K., Orsi, S.A., Kwapis, J.L., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (in press). Scientific Reports. GluR2 endocytosis-dependent protein degradation in the amygdala mediates memory updating.
-
 __Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), Encyclopedia of Animal Learning and Cognition, New York, NY: Springer.
+
+Ferrara, N.C., Jarome, T.J., Cullen, P.K., Orsi, S.A., Kwapis, J.L., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (2019). GluR2 endocytosis-dependent protein degradation in the amygdala mediates memory updating, Scientific Reports, 9, 5180.
 
 __Trask, S.__ (2019). Cues associated with alternative reinforcement can attenuate resurgence of an extinguished free operant response, Learning & Behavior, 47, 66-79. https://doi.org/10.3758/s13420-018-0339-9
 
@@ -32,11 +32,11 @@ __Trask, S.__, & Bouton, M. E. (2016). Discriminative properties of the reinforc
 
 Bouton, M. E., & __Trask, S.__ (2016). Role of the discriminative properties of the reinforcer in resurgence. Learning & Behavior, 44, 137–150. http://doi.org/10.3758/s13420-015-0197-7
 
-Bouton, M. E., __Trask, S.__, & Carranza-Jasso, R. (2016). Learning to inhibit the response during instrumental (operant) extinction. Journal of Experimental Psychology: Animal Learning and Cognition, 42(3), 246–258. http://doi.org/10.1037/xan0000102
+Bouton, M. E., __Trask, S.__, & Carranza-Jasso, R. (2016). Learning to inhibit the response during instrumental (operant) extinction. Journal of Experimental Psychology: Animal Learning and Cognition, 42, 246–258. http://doi.org/10.1037/xan0000102
 
-__Trask, S.__, Schepers, S. T., & Bouton, M. E. (2015). Context change explains resurgence after the extinction of operant behavior. Mexican Journal of Behavior Analysis, 41(2), 187–210. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4943327/
+__Trask, S.__, Schepers, S. T., & Bouton, M. E. (2015). Context change explains resurgence after the extinction of operant behavior. Mexican Journal of Behavior Analysis, 41, 187–210. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4943327/
 
-__Trask, S.__, & Bouton, M. E. (2014). Contextual control of operant behavior: evidence for hierarchical associations in instrumental learning. Learning & Behavior, 42(3), 281–288. http://doi.org/10.3758/s13420-014-0145-y
+__Trask, S.__, & Bouton, M. E. (2014). Contextual control of operant behavior: evidence for hierarchical associations in instrumental learning. Learning & Behavior, 42, 281–288. http://doi.org/10.3758/s13420-014-0145-y
 
 
 
