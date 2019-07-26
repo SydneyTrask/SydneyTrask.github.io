@@ -5,12 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Publications"
-      href: Publications.html
-    - text: "Paper Presentations"
-      href: PaperPresentations.html
-    - text: "Conference Abstracts"
-      href: ConferenceAbstracts.html
+    - text: "Curriculum Vitae"
+      href: Curriculum Vitae.html
+
 output:
   html_document:
     theme: yeti
