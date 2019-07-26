@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Curriculum Vitae"
-      href: Curriculum Vitae.html
+      href: Curriculum_Vitae.html
 
 output:
   html_document:

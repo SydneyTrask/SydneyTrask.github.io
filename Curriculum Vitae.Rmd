@@ -10,7 +10,6 @@ output:
 
 ###[__Download CV__](pubs/Curriculum Vitae Trask.pdf)
 
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -18,6 +17,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ___
 
 #Publications
+
+___
 
 For PDF copies, please email trask@uwm.edu
 
