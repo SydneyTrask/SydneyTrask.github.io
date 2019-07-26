@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Publications"
       href: Publications.html
-    - text: "PaperPresentations"
+    - text: "Paper Presentations"
       href: PaperPresentations.html
     - text: "Conference Abstracts"
       href: ConferenceAbstracts.html
