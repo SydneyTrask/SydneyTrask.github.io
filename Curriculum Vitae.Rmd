@@ -28,6 +28,10 @@ __Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), E
 
 ---
 
+Ferrara, N.C., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (in press). The dorsal hippocampus mediates synaptic destabilization and memory lability in the amygdala in the absence of contextual novelty. Neurobiology of Learning and Memory.
+
+---
+
 Ferrara, N.C., Jarome, T.J., Cullen, P.K., Orsi, S.A., Kwapis, J.L., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (2019). GluR2 endocytosis-dependent protein degradation in the amygdala mediates memory updating, Scientific Reports, 9, 5180. https://doi.org/10.1038/s41598-019-41526-1
 
 ---
