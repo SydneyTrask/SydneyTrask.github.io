@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Poster Downloads"
 
 output:
   html_document:
@@ -8,4 +8,10 @@ output:
     toc_float: yes
 ---
 
-###[__Download Pavlovian 2019 Poster__](photos/SfN_Pavlovian_MKE_Poster_2019_Trask.pdf)
+###[__Pavlovian 2019 Poster__](photos/SfN_Pavlovian_MKE_Poster_2019_Trask.pdf)
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+___
