@@ -8,4 +8,4 @@ output:
     toc_float: yes
 ---
 
-![_Pavlovian 2019_](./photos/SfN Pavlovian MKE Poster 2019 Trask.pdf)
+###[__Download Pavlovian 2019 Poster__](photos/SfN_Pavlovian_MKE_Poster_2019_Trask.pdf)
