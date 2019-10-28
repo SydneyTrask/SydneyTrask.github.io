@@ -28,7 +28,7 @@ __Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), E
 
 ---
 
-Ferrara, N.C., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (in press). The dorsal hippocampus mediates synaptic destabilization and memory lability in the amygdala in the absence of contextual novelty. Neurobiology of Learning and Memory.
+Ferrara, N.C., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (in press). The dorsal hippocampus mediates synaptic destabilization and memory lability in the amygdala in the absence of contextual novelty. Neurobiology of Learning and Memory. https://doi.org/10.1016/j.nlm.2019.107089
 
 ---
 
@@ -90,7 +90,7 @@ ___
 
 ###__2020__
 
-Distinct roles of the anterior and posterior retrosplenial cortices in encoding, but not retrieval, of aversive memory. __Sydney Trask__ and Fred J. Helmstetter. To be presented at the annual meeting for the International Behavioral Neurscience Society in June, 2020 (Glasgow, Scotland).
+Distinct roles of the anterior and posterior retrosplenial cortices in encoding, but not retrieval, of aversive memory. __Sydney Trask__ and Fred J. Helmstetter. To be presented at the annual meeting for the International Behavioral Neuroscience Society in June, 2020 (Glasgow, Scotland).
 
 ###__2019__
 
