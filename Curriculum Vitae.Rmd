@@ -8,7 +8,7 @@ output:
     toc_float: yes
 ---
 
-###[__Download CV__](pubs/Curriculum Vitae Trask.pdf)
+###[__Download CV__](pubs/Trask CV.pdf)
 
 
 ```{r setup, include=FALSE}
