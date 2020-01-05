@@ -28,7 +28,7 @@ __Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), E
 
 ---
 
-Ferrara, N.C., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (in press). The dorsal hippocampus mediates synaptic destabilization and memory lability in the amygdala in the absence of contextual novelty. Neurobiology of Learning and Memory. https://doi.org/10.1016/j.nlm.2019.107089
+Ferrara, N.C., __Trask, S.__, Pullins, S.E., & Helmstetter, F.J. (2019). The dorsal hippocampus mediates synaptic destabilization and memory lability in the amygdala in the absence of contextual novelty. Neurobiology of Learning and Memory, 166, 107089.  https://doi.org/10.1016/j.nlm.2019.107089
 
 ---
 
