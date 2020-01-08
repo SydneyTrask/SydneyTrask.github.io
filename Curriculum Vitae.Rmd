@@ -24,7 +24,7 @@ For PDF copies, please email trask@uwm.edu
 
 ---
 
-__Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), Encyclopedia of Animal Learning and Cognition, New York, NY: Springer.
+__Trask, S.__, Shipman, M. L., Green, J. T., & Bouton, M. E. (in press). Some factors that restore goal-direction to habitual behavior. Neurobiology of Learning and Memory.
 
 ---
 
@@ -53,6 +53,10 @@ __Trask, S.__, Keim, C. L., & Bouton, M. E. (2018). Factors that encourage gener
 ---
 
 __Trask, S.__, & Bouton, M. E. (2018). Retrieval practice after multiple context changes, but not long retention intervals, reduces the impact of a final context change on instrumental behavior. Learning & Behavior, 46, 213-221. https://doi.org/10.3758/s13420-017-0304-z
+
+---
+
+__Trask, S.__ (in press). Free operant. In J. Vonk & T. K. Shackelford (Eds.), Encyclopedia of Animal Learning and Cognition, New York, NY: Springer. https://doi.org/10.1007/978-3-319-47829-6_1251-1
 
 ---
 
