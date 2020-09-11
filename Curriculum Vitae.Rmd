@@ -8,7 +8,7 @@ output:
     toc_float: yes
 ---
 
-###[__Download CV__](pubs/Trask CV.pdf)
+###[__Download CV__](pubs/CV Trask.pdf)
 
 
 ```{r setup, include=FALSE}
@@ -106,7 +106,7 @@ ___
 
 ###__2020__
 
-Age-related memory impairment is associated with increased zif268 protein accumulation and decreased Rpt6 phosphorylation. Sydney Trask, Brooke N. Dulka, and Fred J. Helmstetter. Presented at the Brain Science Institute Neuroscience Research Day at The Rosalind Franklin University of Medicine and Science in July, 2020 (North Chicago, IL).
+Age-related memory impairment is associated with increased zif268 protein accumulation and decreased Rpt6 phosphorylation. __Sydney Trask__, Brooke N. Dulka, and Fred J. Helmstetter. Presented at the Brain Science Institute Neuroscience Research Day at The Rosalind Franklin University of Medicine and Science in July, 2020 (North Chicago, IL).
 
 
 Age-related changes in immediate early gene (zif268) expression in the trace fear circuit. __Sydney Trask__ and Fred J. Helmstetter. _Invited Presentation_ for the American Aging Association Virtual Meeting in June, 2020.
