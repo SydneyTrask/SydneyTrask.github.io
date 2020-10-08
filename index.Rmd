@@ -3,9 +3,6 @@ title: __Sydney Trask, PhD.__
 
 ---
 ![](./photos/banner2.png)
----
-
-<a class="twitter-timeline" data-width="450" data-height="1000" href="https://twitter.com/Sydney_Trask">Tweets by Sydney_Trask</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -21,7 +18,7 @@ title: __Sydney Trask, PhD.__
 
 ---
 
-I am interested in the ways the brain changes in response to learning and how we can access and manipulate these memories in order to reduce maladaptive behavior and encourage contextually appropriate responding. 
+I am interested in the ways the brain encodes, stores, retrieves, and updates memory. I am particularly interested in understanding memory for context, or the environment in which events take place. Successful encoding and retrieval of context allows us to select and guide our behavior in a way that encourages situationally appropriate responding. However, alterations in this type of learning and memory are common in symptomology that underlies several neuropsychiatric disorders, ranging from PTSD to age-related dementia. Understanding how memory for context is formed, retrieved, and altered at both the circuit and molecular level, will provide one crucial step forward to treatments aimed at reducing maladaptive behaviors stemming from contextually inappropriate behaviors. 
 
 ___
 
