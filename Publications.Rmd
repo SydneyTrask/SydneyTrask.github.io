@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 ___
 
-#Publications
+#Peer Reviewed Publications
 
 ___
 
